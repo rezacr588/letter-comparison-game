@@ -1,0 +1,10 @@
+.pending {
+  color: gray;
+}
+.currect {
+  color: green;
+}
+.incurrect {
+  color: red;
+  font-weight: bold;
+}
